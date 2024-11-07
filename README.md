@@ -1,4 +1,3 @@
 # Sample README.md
 
-## FirstRepo11624
-*This is my first repo!
+*This is my first repo named FirstRepo11624!
